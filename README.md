@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Leo
+# 👋 HI, I'M LEO
 
-🎮 Unity Developer (2D / 3D / AR)  
-💡 Game Dev • AR Apps • Learning Platforms
+🎮 UNITY DEVELOPER (2D / 3D / AR)  
+💡 GAME DEV • AR APPS • LEARNING PLATFORMS
 
 ---
 
