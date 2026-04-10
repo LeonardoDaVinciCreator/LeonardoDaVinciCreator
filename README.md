@@ -5,6 +5,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoDaVinciCreator&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoDaVinciCreator&theme=tokyo-night)
+
+---
+
 ## 🧠 About me
 
 | Area | Skills |
@@ -30,10 +38,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoDaVinciCreator&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoDaVinciCreator&theme=tokyo-night)
-
----
