@@ -36,6 +36,10 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDaVinciCreator&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoDaVinciCreator&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoDaVinciCreator&theme=tokyo-night)
+
 ---
 
 ## 📫 Contact
