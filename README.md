@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LeonardoDaVinciCreator&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoDaVinciCreator&show_icons=true&theme=tokyonight)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDaVinciCreator&layout=compact&theme=tokyonight)
 
