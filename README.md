@@ -37,9 +37,3 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonardoDaVinciCreator&theme=tokyo-night)
 
 ---
-
-## 📫 Contact
-
-| Platform | Link |
-|----------|------|
-| 🐙 GitHub | https://github.com/LeonardoDaVinciCreator |
